@@ -102,8 +102,8 @@
 
 1. **استنساخ المستودع (Clone Repository)**:
    ```bash
-   git clone https://github.com/username/transport.git
-   cd transport
+   git clone https://github.com/Asem-Alyaari/laravel-react-transport-system.git
+   cd laravel-react-transport-system
    ```
 
 2. **تثبيت حزم الـ PHP عبر Composer**:
